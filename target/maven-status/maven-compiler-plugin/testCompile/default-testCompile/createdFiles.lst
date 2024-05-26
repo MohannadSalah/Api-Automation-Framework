@@ -1,0 +1,5 @@
+UsersTest\Api\UsersApi.class
+UsersTest\Data\dataProviders$DataProviderClass.class
+UsersTest\Data\dataProviders.class
+UsersTest\models\User.class
+UsersTest\UsersTestCases.class
